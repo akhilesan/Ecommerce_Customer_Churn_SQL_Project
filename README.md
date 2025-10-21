@@ -34,5 +34,5 @@ SQL Querying | Data Cleaning | Data Transformation | Aggregate Functions | Subqu
 
 🔗 Connect
 
-📍LinkedIn: [linkedin.com/in/akhilesan-ap]
+📍LinkedIn: [linkedin.com/in/akhilesan-ap/]
 📧 Email: [apakhilesan@gmail.com]
