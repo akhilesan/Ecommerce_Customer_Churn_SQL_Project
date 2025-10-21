@@ -25,7 +25,7 @@ Data Analysis – applied JOIN, GROUP BY, and aggregate functions to extract ins
 
 Tier-3 cities showed the highest churn in the Laptop & Accessories category
 
-Debit Card was the most popular payment method among active users
+Refunds alone didn’t retain dissatisfied customers
 
 🧠 Skills Demonstrated
 
